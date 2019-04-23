@@ -4,5 +4,6 @@ Ce fichier au format Excel comporte une liste de sites ou de chaînes de caract�
 blacksites :  expression au format de chaine de caractères.
 blacksitesregex : au format regex. 
 # blacklist-source-sites.csv 
-Ce fichier comprend les mêmes données au format csv
-
+Ce fichier comprend la liste des sites à blacklister  au format csv
+# blacklist-fullRefferer-Page.csv
+Ce fichier comprend la liste des pages à blacklister (pas les sites)  au format csv
